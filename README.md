@@ -1,2 +1,2 @@
-# BiconNet-MedicalSeg
-Simple implementation of Bicon-CE for medical segmentation task
+# BiconNet-Medical
+A simple implementation of Bicon-CE for medical segmentation task
